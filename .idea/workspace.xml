@@ -178,12 +178,20 @@
       <option name="project" value="LOCAL" />
       <updated>1601162835927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Commit">
+      <created>1601164753241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601164753241</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="28" key="#app" timestamp="1601161181942">
@@ -202,10 +210,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="872" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601159601881" />
-    <state x="193" y="0" key="CommitChangelistDialog2" timestamp="1601162833605">
+    <state x="193" y="0" key="CommitChangelistDialog2" timestamp="1601164750330">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="193" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601162833605" />
+    <state x="193" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601164750330" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1601164729713">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
